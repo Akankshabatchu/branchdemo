@@ -1,0 +1,5 @@
+creating a new folder
+applying fork
+moving from working directory to staging area with add
+staging area to local repository with commit
+local repository to remote repository by push command
